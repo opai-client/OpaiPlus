@@ -11,7 +11,6 @@
 
 [![Issues](https://img.shields.io/github/issues/opai-client/OpaiPlus?style=flat)](https://github.com/opai-client/OpaiPlus/issues)
 [![License](https://img.shields.io/badge/license-All_rights_reserved-blue)](./LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/opai-client/OpaiPlus/total?label=Downloads&style=flat-square)](https://github.com/opai-client/OpaiPlus/releases)
 
 </div>
 
