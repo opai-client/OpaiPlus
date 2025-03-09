@@ -4,7 +4,7 @@
 
 <p>
    <!--suppress CheckImageSize -->
-   <img src="./mascot.png" alt="Project Mascot" width="600">
+   <img src="https://github.com/opai-client/OpaiPlus/raw/main/mascot.png" alt="Project Mascot" width="600">
 </p>
 
 ## More Features, More Fun.
